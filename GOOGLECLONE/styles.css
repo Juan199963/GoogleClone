@@ -1,0 +1,93 @@
+
+
+.imagen9puntos{
+    height: 32px;
+    width: 32px;
+}
+.imagen9puntosletra{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+
+.navegadorarriba{
+    height: auto;
+    width: auto;
+    border-color: blue;
+    display:flex;
+    display:flex;
+    justify-content: right;
+    align-items: center;
+
+}
+
+.logogoogle{
+    margin-top:40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.barradebusqueda{
+    border: rgb(203 202 202) 0.5px solid;
+    margin: 50px 50px 20px 50px!important;
+    border-radius: 30px;
+    width: 584px;
+    max-width: 584px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 8px 0 14px;
+    height: 38.992px;
+    align-content: center;
+;
+
+    
+
+}
+
+.barradebusquedatotal{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.imagenlupa1{
+    right: 40px !important;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.espaciovacio{
+    width:auto;
+    height: 257.770px;
+}
+
+.pais{
+    padding: 15px 30px 15px 30px;
+    font-family: arial,sans-serif;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+
+.Textofinal{
+    color: #70757a;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    display: flex;
+    justify-content:space-between;
+    padding: 15px 30px 0 30px;
+}
+
+.botonesseparados{
+    display: flex;
+}
+
+.separados{
+    padding: 10px 10px 0 0;
+
+}
